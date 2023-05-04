@@ -12,21 +12,21 @@ include("marco-right.php");
    <div  style="width: 100%;">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left;">
-        	<h1>¿Quién es Alan Ramirez?</h1>
+        	<h1>¿Quién es Sebastian Rueda?</h1>
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
-                Posteado por:  Alan Ramirez<br>
-                Fecha: 2023-04-02 <br>
+                Posteado por:  Sebastian Rueda<br>
+                Fecha: 2023-05-03 <br>
           </div>
         </div>
     </div>
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">¡Hola! Me complace presentarme, soy Ramírez Mera <b> Alan Ricardo </b>, estudiante de Ingeniería en Tecnologías de la Información en la Universidad Técnica Luis Vargas Torres de Esmeraldas. </p>
-                   <p class="eys-parrafo">Me apasiona el mundo de la tecnología y todo lo que tenga que ver con la informática, la programación y el desarrollo de software.</p>
-                   <p class="eys-parrafo">Mi objetivo a largo plazo es convertirme en un profesional exitoso y respetado en el campo de la tecnología, y contribuir al desarrollo de soluciones innovadoras que puedan mejorar la vida de las personas y la sociedad en general. Para lograrlo, estoy constantemente en busca de nuevas oportunidades de aprendizaje y crecimiento profesional, además de mantenerme actualizado sobre las últimas tendencias y avances en la industria.</p>
+                   <p class="eys-parrafo">¡Hola! Me complace presentarme, soy Rueda Burbano <b> Sebastián Emmanuel  </b>. Actualmente estoy estudiando ingeniería en tecnologías de la información en la Universidad Técnica Luis Vargas Torres de Esmeraldas. </p>
+                   <p class="eys-parrafo">Desde muy joven, siempre he tenido un gran interés por el mundo de la tecnología y la informática, lo que me llevó a elegir esta carrera universitaria. Me apasiona explorar las últimas tendencias y tecnologías en el ámbito de la informática y siempre estoy dispuesto a aprender cosas nuevas y desafiantes en este campo.</p>
+                   
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
@@ -34,24 +34,24 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en la  Unidad Educativa Fiscal "Fausto Molina", donde me gradue como Bachiller en Ciencias. Durante mis estudios secundarios,me apasioné por la física y las matemáticas, lo que me impulsó a seguir una carrera en el campo de la tecnología y la ciencia.</p>
-                   <p class="eys-parrafo">Mi formación en ciencias y mi pasión por la tecnología me llevaron a decidir estudiar ingeniería en tecnologías de la información en la Universidad Técnica Luis Vargas Torres de Esmeraldas. Allí, he ampliado mis conocimientos en programación y desarrollo de software, aprendiendo lenguajes de programación como C ++ o PHP.</p>
-<p class="eys-parrafo"> Mi objetivo como profesional de la informática es continuar desarrollando habilidades en el campo de la tecnología y la innovación, trabajando en proyectos que impacten positivamente en la sociedad y en el mundo empresarial. Además, como persona, aspiro a ser un ciudadano comprometido y responsable, siempre buscando oportunidades para contribuir al bienestar de mi comunidad.</p>
+                   <p class="eys-parrafo">Soy egresado del colegio Margarita Cortez, donde obtuve el título de Técnico en Servicios de Comercialización y Ventas. Actualmente, estudio Ingeniería en Tecnologías de la Información en la Universidad Técnica Luis Vargas Torres de Esmeraldas.</p>
+                   <p class="eys-parrafo">Mi formación técnica en el colegio Margarita Cortez me brindó una sólida base en áreas como el marketing, la gestión de ventas y la atención al cliente, habilidades que he podido aplicar en mi vida personal y profesional.</p>
+
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
     
 
 
-                   <p  class="eys-parrafo">Soy una persona apasionada por la tecnología y me gusta estar al día con las últimas tendencias en el mundo de la informática. .</p> 
-                   <p  class="eys-parrafo">Tengo habilidades en sistemas informaticos y hadware, lo que me permite ser más eficiente en mi trabajo y en el uso de herramientas digitales en mi día a día.</p>
-                   <p  class="eys-parrafo">Además, me gusta aprender sobre seguridad informática y cómo proteger mi información personal en línea. Estoy en constante aprendizaje y siempre busco mejorar mis habilidades para poder enfrentar nuevos retos en el campo de la tecnología.</p>
+                   <p  class="eys-parrafo">Como técnico en servicios de comercialización y ventas, poseo habilidades en el manejo de herramientas informáticas para el análisis de datos y la gestión de información. Mi experiencia en el área de ventas y atención al cliente me ha permitido adquirir conocimientos en la utilización de sistemas de registro y seguimiento de ventas, así como en la elaboración de informes y estadísticas para la toma de decisiones.</p> 
+                   <p  class="eys-parrafo">También poseo habilidades básicas en el manejo de software de procesamiento de textos y hojas de cálculo, lo que me permite realizar documentos y reportes de manera efectiva y eficiente. Además, tengo experiencia en el uso de herramientas de comunicación electrónica, como correo electrónico y aplicaciones de mensajería instantánea, para una comunicación efectiva con clientes y proveedores.</p>
+                   <p  class="eys-parrafo">Como futuro profesional en tecnologías de la información, me mantengo actualizado en las últimas tendencias y herramientas de software, lo que me permite adaptarme rápidamente a los cambios y necesidades del mercado en constante evolución.</p>
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">Soy una persona activa y me encanta disfrutar de mi tiempo libre realizando actividades que me permitan mantenerme en forma y relajado. Uno de mis hobbies favoritos es el deporte, en especial el fútbol y el baloncesto. Me gusta jugar con amigos los fines de semana y ver partidos en la televisión. </p>
+                   <p   class="eys-parrafo">Soy una persona creativa y divertida, y me encanta compartir mis pasatiempos a través de del desarrollo de contenido digital en diferentes plataformas. En mi tiempo libre, disfruto ver películas y series, especialmente de ciencia ficción y fantasía. Además, me gusta mantenerme en forma y activo, por lo que practico deportes como fútbol y ciclismo. </p>
        
 
                    
@@ -81,13 +81,13 @@ include("marco-left.php")
  
 <script >  
 
- document.title="Alan Ramirez"; 
-document.getElementById("foto").src="./images/RamirezAlan.jpeg";
-document.getElementById("elnombre").innerHTML="Alan Ramirez";
+ document.title="Sebastian Rueda"; 
+document.getElementById("foto").src="./images/RuedaSebastian.jpeg";
+document.getElementById("elnombre").innerHTML="Sebastian Rueda";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://congresoutlvte.org/CabezasNicole/'>Nicole Cabezas</a></p><a href='https://congresoutlvte.org/TapiaBarbara/'>Barbara Tapia</a></p> <a href='https://congresoutlvte.org/RamirezAlan/'>Alan Ramirez</a></p><a href='https://congresoutlvte.org/FrancoIsaac/'>Isaac Franco</a></p> ";
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://congresoutlvte.org/TapiaBarbara/'>Barbara Tapia</a></p> ";
  </script>
  
 <?php
